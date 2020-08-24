@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Menu. Categry Display"
+	{
+		"en"			"Способности"
+		"ru"			"Abilities"
+	}
+	
+	"Menu. Item Display"
+	{
+		"en"			"Защита от падений"
+		"ru"			"Fall protection"
+	}
+}
